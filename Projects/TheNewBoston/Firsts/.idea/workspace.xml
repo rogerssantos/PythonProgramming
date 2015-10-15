@@ -294,6 +294,7 @@
       <option name="project" value="LOCAL" />
       <updated>1444873170438</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary=".">
       <created>1444873180652</created>
       <option name="number" value="00003" />
@@ -313,6 +314,9 @@
       <updated>1444875616453</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    <option name="localTasksCounter" value="3" />
+>>>>>>> origin/temp
     <servers />
   </component>
   <component name="TodoView">
